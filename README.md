@@ -13,4 +13,4 @@ With the help of the tutorial I was able to implement some custom features to ga
 
 ![Alt Text](https://media.giphy.com/media/QW9lNKhPSFXYd9XOEr/giphy.gif)
 
-In addition, I implemented some rough UI work for menu scenes with working buttons that the user can use to navigate the game. I also did some rough animation work so the menu scenes seem less bland and have characters moveing around. 
+In addition, I implemented some rough UI work for menu scenes with working buttons that the user can use to navigate the game. I also did some rough animation work so the menu scenes seem less bland and have characters moving around. 
