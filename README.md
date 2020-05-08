@@ -5,7 +5,7 @@ This project was created with the help of Jason Weimann's tutorial on how to cre
 
 ![Alt Text](https://media.giphy.com/media/fUpVohKSJOxXJiL3TM/giphy.gif)
 
-The project uses Unity Cinemachine to give a more enhanced camera experience to the user allowing for the camera to zoom in and out when needed and focus on the certain sprites. 
+The project uses Unity Cinemachine to give a more enhanced camera experience to the user allowing for the camera to zoom in and out when needed and to focus on certain sprites using target groups. 
 
 ![Alt Text](https://media.giphy.com/media/lr2DMnKap9viyoyD61/giphy.gif)
 
